@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  www.ayush7pathak.com - v4 (based on brittanychiang.com)
+  www.ayushpathak.tech - v4 (based on brittanychiang.com)
 </h1>
 
 <p align="center">
